@@ -3,6 +3,9 @@
 This is a Java project that simulates an Airport Rail Link ticket machine. Users can select stations, buy tickets, create cards, and top up their card balance.
 
 This project was developed as part of a university course.
+## Team Members
+- Kanravi Charoentanaset
+- Cholthicha Khanijomdi
 
 ## Features
 - Display available train stations
