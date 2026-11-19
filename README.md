@@ -9,7 +9,7 @@ This project was developed as part of a university course.
 - Cholthicha Khanijomdi
 
 ## Roles
-- Kanravi Charoentanaset - develope a calculate time from each platform from station o to 7
+- Kanravi Charoentanaset - develop calculate time from each platform from station o to 7
 - Cholthicha Khanijomdi - create topup, create card, and buy a ticket and combine them to work together
   
 ## Features
